@@ -1,0 +1,6 @@
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheet\bin\Debug\TimeSheet.exe.config
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheet\bin\Debug\TimeSheet.exe
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheet\bin\Debug\TimeSheet.pdb
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheet\obj\Debug\TimeSheet.exe
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheet\obj\Debug\TimeSheet.pdb

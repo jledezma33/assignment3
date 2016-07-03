@@ -1,0 +1,7 @@
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheetTests\obj\Debug\TimeSheetTests.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheetTests\bin\Debug\TimeSheetTests.dll
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheetTests\bin\Debug\TimeSheetTests.pdb
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheetTests\bin\Debug\TimeSheet.exe
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheetTests\bin\Debug\TimeSheet.pdb
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheetTests\obj\Debug\TimeSheetTests.dll
+C:\Users\Jesus Ledezma\Desktop\School Stuff\Application Development\TimeSheet\TimeSheetTests\obj\Debug\TimeSheetTests.pdb
